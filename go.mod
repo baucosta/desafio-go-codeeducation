@@ -1,3 +1,3 @@
-module github.com/baucosta/atividades-devops
+module github.com/baucosta/desafio-go-codeeducation
 
-go 1.15
+go 1.17
